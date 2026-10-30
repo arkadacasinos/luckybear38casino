@@ -1,6 +1,6 @@
 import Image from 'next/image'
 
-const REF_URL = 'https://combonorth.space/aeaofj2k27'
+const REF_URL = 'https://comboyolo.site/aeaofj2k27'
 
 export default function Page() {
   return (
